@@ -17,6 +17,9 @@
 # 주요 기능
 ![image](https://github.com/user-attachments/assets/9c534a36-1dbe-423a-b183-014d15a97b8f)
 
+# 프로젝트 설명
+자세한 내용은 ppt를  [여기에서 PDF 파일](3조 2차_final.pptx)통해서 확인해주세요
+
 # 시연 영상
 https://youtu.be/ApN9s-g_jrQ
 
